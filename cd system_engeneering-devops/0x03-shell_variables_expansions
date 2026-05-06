@@ -1,0 +1,5 @@
+vi 0-alias
+  bash
+#!/bin/bash
+  alias 1s=' rm *'
+chmod u+x 0-alias
